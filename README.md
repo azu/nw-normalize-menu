@@ -11,7 +11,7 @@ Normalize menu(on mac) for nw.js(node-webkit).
 load script from html.
 
 ```html
-<script src="node_modules/nnw-normalize-menu/nw-normalize-menu.js"></script>
+<script src="node_modules/nw-normalize-menu/nw-normalize-menu.js"></script>
 ```
 
 ## Contributing
