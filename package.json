@@ -1,7 +1,7 @@
 {
   "name": "nw-normalize-menu",
   "description": "normalize menu(on mac) for nw.js(node-webkit).",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/azu/nw-normalize-menu/",
   "repository": {
     "type": "git",
@@ -11,8 +11,8 @@
   "scripts": {
     "test": "mocha test/*.js"
   },
-  "directories" : {
-    "test" : "test/"
+  "directories": {
+    "test": "test/"
   },
   "author": "azu",
   "license": "MIT",
